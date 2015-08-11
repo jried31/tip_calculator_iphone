@@ -4,7 +4,11 @@ This is a demo of a simple tip calculator for an iPhone. This project contains t
 Time spent: 1 hour in total
 
 Completed user stories:
-- Required: Tip calcalator where user can see added total based on 18, 20, and 22% tip amounts. This code is located in the project folder named 'tips'.
-- Optional: Tip calculator where the total view is hidden until the user inputs numbers in the bill input field. This code is located in the project folder named 'tips-extra-credit'.
- 
-GIF walkthrough of all required and optional stories (using LiceCap) --> See file named tip-calculator-basic-extra-credit.gif
+[X] Required: User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+[X] Required: Settings page to change the default tip percentage.
+[X] Optional: UI animations
+[X] Optional: Remembering the bill amount across app restarts (if <10mins)
+[X] Optional: Using locale-specific currency and currency thousands separators.
+[X] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+GIF walkthrough of all required and optional stories (using LiceCap) --> See file named tip-calculator.gif
