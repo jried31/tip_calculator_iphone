@@ -1,5 +1,7 @@
 # tip_calculator_iphone
-This is a demo of a simple tip calculator for an iPhone. This project contains two seperate projects. The folder 'tips' contains the required basic tip calculator. The project 'tips-extra-credit' contains a version of the tip calculator using view animation transitions.
+This is a demo of a tip calculator for an iPhone. This project enables the user to calculate tip percentages given a bill total. The algorithm accounts for local, currency type, and various tip percentages. This project also implements UI transitions+theme changes. 
+
+FYI: Per Tim's recommendation, this is submited for consideration for the developer track. 
 
 Time spent: 4 hours in total
 
